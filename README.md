@@ -45,18 +45,26 @@ The notebook was used to clean data and analyse whether to focus on Game or Appl
 - Game
 - User Review
 ### Report - Choosing between App or Game
+For the question how to have easier path when developing on Google Play Store, we will consider the pros and cons between 2 big sectors which are Game and Application.
+
 Criteria to compare:
 - Install/App Count Ratio
 - Median Rating	
 - Ad Supported Rate	
 - Paid percentage
 
-Conclusion: All the criteria are better when developing a Game compared to Application
+![image](https://user-images.githubusercontent.com/86507088/135597784-219e13b1-51de-4a30-afd2-efe4ada3a0ca.png)
+
+
+Conclusion: All the criteria are better when developing a Game compared to Application, so we will dig deeper in Game in the Report section.
 
 ## About the report:
 [Google_Game_Report.pdf](https://github.com/tranducminh1902/google-play-store-analysis/blob/main/Google_Game_Report.pdf)
 
 From the result of the notebook, we focus on Game sector on Google Play Store, to analyse how to be more successful when developing a game.
+
+![image](https://user-images.githubusercontent.com/86507088/135597454-fa95b2b3-cf16-4a35-a589-4e534ca84dff.png)
+
 
 The report was prepared using Google Data Studio. Link to the report platform: https://datastudio.google.com/s/kSbHtt5XPME
 
